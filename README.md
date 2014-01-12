@@ -1,4 +1,4 @@
 love-node
 =========
 
-Some meaningless thing, just for fun.
+Meaningless just for fun.
